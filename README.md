@@ -1,4 +1,4 @@
-esumos aulas Git-GitHub
+Resumos aulas Git-GitHub
 
 Repositório para organizar os resumos de aulas sobre versionamento de código com Git.
 
